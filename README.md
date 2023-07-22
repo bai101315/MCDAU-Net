@@ -1,6 +1,6 @@
 # Dual-path multi-scale context dense aggregation network for retinal vessel segmentation
 
-## This is an implementation of the [MCDAU-Net](https://www.sciencedirect.com/science/article/abs/pii/S0010482523007345?via%3Dihub).
+## This is an implementation of the [MCDAU-Net](https://www.sciencedirect.com/science/article/abs/pii/S0010482523007345?via%3Dihub).Due to memory limitations on GitHub, each person needs to perform the chunking operation themselves. For detailed instructions on the chunking process, please refer to the paper.
 
 ## Environment Configuration：
 ```
