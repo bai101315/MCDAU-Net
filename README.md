@@ -16,5 +16,6 @@
   ├── core.blocks: Build the MCDAU-Net module code
   ├── main.py: Model training
   ├── image2patch: Split the image into patches and perform preprocessing operations
+  ├── patch2iamge.py: Merge patch into image and perform test operation
   └── test.py: Model testing and save results
 ```
