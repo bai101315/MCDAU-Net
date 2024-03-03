@@ -17,5 +17,6 @@
   ├── main.py: Model training
   ├── image2patch: Split the image into patches and perform preprocessing operations
   ├── patch2iamge.py: Merge patch into image and perform test operation
+  ├── test: Storage location of merged images
   └── test.py: Model testing and save results
 ```
