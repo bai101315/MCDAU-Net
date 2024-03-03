@@ -15,5 +15,6 @@
   ├── core.utils: Read the dataset and calculate the mean and standard deviation
   ├── core.blocks: Build the MCDAU-Net module code
   ├── main.py: Model training
+  ├── image2patch: Split the image into patches and perform preprocessing operations
   └── test.py: Model testing and save results
 ```
